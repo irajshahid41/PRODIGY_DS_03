@@ -42,6 +42,8 @@ This EDA on the **Bank Marketing Dataset** revealed key insights into client beh
 
 📊 Dataset Source: **UCI Machine Learning Repository**[https://archive.ics.uci.edu/ml/datasets/Bank+Marketing]
 
+For detailed code and analysis, refer to the Task03.ipynb file.
+
 ## Repository Structure
 
 **Task03.ipynb:** Jupyter notebook containing the full EDA.
@@ -52,7 +54,3 @@ This EDA on the **Bank Marketing Dataset** revealed key insights into client beh
 - Clone the repository.
 - Open Task03.ipynb in Jupyter Notebook or Google Colab.
 - Run the cells to reproduce the analysis.
-
-
-
-📊 Dataset Source: UCI Machine Learning Repository
